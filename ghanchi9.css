@@ -1,0 +1,61 @@
+/*theme by SABA GHANCHI*/
+/*GHANCHI* - type 1*/
+/*date: 29 mar 2013*/
+/*http://saba-loverxxx.tk*/
+
+body {background:#ddd;margin:0;padding:0;color:#333}
+#header {background:#00346b;margin:0;padding:0;text-align:center;color:#eee}
+.heading {margin:0;padding:10px 5px;font-size:small}
+.description {margin:0;padding:5px 5px 15px 5px;font-size:small}
+#navigation {text-align:center;margin:0;padding:0;background:#025;border-top:1px solid #014}
+#navigation span {width:32%;display:inline-block;padding:6px 0;text-align:center;margin:0 -1px 0 0;}
+#navigation span+span+span a {content:"Down"}
+#top-content {background:#bbb;text-align:center;margin:0;padding:0;border-bottom:1px solid #edeeee;border-top:1px solid #000}
+#search-form {margin:0;padding:6px 0;border-bottom:1px solid #999}
+.post,.post-single,#comments {background:#fffeff;margin:7px 5px;border:1px solid #bbb}
+.post-meta {margin:0;padding:5px;background:#cedfef;color:#2155b5}
+.post-meta .title {margin:-5px -5px 3px -5px;font-size:small;padding:5px;background:#00346b;border-bottom:1px solid #fff}
+.post-content {margin:0;padding:9px 5px}
+.post-meta2 {margin:0;padding:5px;}
+.thumbnail{
+border:1px solid #888 !important;
+margin:2px 3px 0 0 !important;
+width:50px !important;
+height:60px !important;
+padding:1px !important}
+#pagination-links {margin:0;padding:2px 2px 4px 2px;text-align:center;background:#bbb;border:1px solid #999;border-width:1px 0}
+#pagination-links span {padding:4px;display:inline-block;background:#fffeff;}
+#pagination-links a {padding:4px;background:#00346b;color:#ffe;display:inline-block;margin-top:2px;text-decoration:none;}
+#pagination-links a:hover {text-decoration: none;}
+#blogroll,#category-bottom,#navigation-menu {background:#fffeff;margin:7px 5px;padding:0;border:1px solid #bbb}
+#recent-posts-list h4,h3 {background:#00346b;margin:0;padding:8px 5px;color:#ffe}
+h3 a {color:#ffe}
+ul,ol,h6 {margin:0;padding:0}
+#blogroll li:nth-child(odd),#category-bottom li:nth-child(odd),#navigation-menu li:nth-child(odd) {list-style:none;margin:0;padding:5px;border:1px solid #ddd;border-width:1px 0}
+#blogroll li:nth-child(even),#category-bottom li:nth-child(even),#navigation-menu li:nth-child(even) {list-style:none;margin:0;padding:5px;border:1px solid #fff;background:#eee;border-width:1px 0}
+#category-bottom li:nth-child(odd),#category-bottom li:nth-child(even) {text-align:right}
+#category-bottom li a {float:left}
+#blogroll li:nth-child(odd),#blogroll li:nth-child(even) {list-style: disc inside !important;color:#111}
+#footer {background:#036;color:#eee;margin:0;padding:5px;text-align:center;border-top:1px solid #babbbb}
+#bottom-content {margin:0;padding:0;border-bottom:1px solid #efeeee}
+#footer a,.heading a,#navigation a,.post-meta .title a,.post-meta .title {color:#fffffe}
+.categories {font-size:small;margin:0;padding:2px 0}
+#share-buttons {margin:1px 0;padding:3px;text-align:center;background:#cedfef}
+#share-buttons a {display:inline-table;width:35%}
+#share-buttons img {width:20px;height:18px}
+#blogroll_list li,#recent-posts-list li,.post-content li {list-style: disc inside;margin:0;padding:5px;border-bottom:1px solid #dedddd}
+.comment {margin:5px;padding:0;border:1px solid #cccccd;}
+.comment-header {margin:0;padding:3px;color:#888}
+#comments .comment h5,.comment-header .title {margin:-3px -3px 2px -3px;background:#eee;padding:3px}
+.comment-content {margin:0;padding:5px 3px}
+#comments h4,#comments h5 {margin:1px;padding:2px}
+#comment_form{text-align:left;margin:1px;padding:3px}
+#comment_form textarea{width:80%;margin:2px 0;padding:20px 0}
+#comment_form input[type=text],.mobile_body
+#comment_form select{width:50%;margin:2px 0;padding:5px}
+#comment_form [type=submit] {margin:2px 0;padding:5px}
+body img {max-width:80%;max-height:80%}
+.post-single .post-content textarea {width:70px;height:70px;padding:0;margin:0}
+.post-content,.comment-content {word-wrap:break-word}
+#footer h6:before {content:"fmb_" !important;display:inline !important}
+#footer:after {content:"CSS BY GHANCHI*" 
