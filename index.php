@@ -1,6 +1,6 @@
 ﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
 -= CHAUDHRY BOTTERX =-
-</title><link rel="stylesheet" type="text/css" href="https://flambon.xtgem.com/fmb/lux_3.css" media="all,handheld"/>
+</title><link rel="stylesheet" type="text/css" href="ghanchi9.css" media="all,handheld"/>
 <link rel="shortcut icon" a href="https://facebook.com/fevicon.ico">
 <audio controls autoplay controls loop style="display:none">
   <source src="http://s.cdnpk.eu/pk-mp3/mujhe-dushman-k-bachon-ko-parhana-hai/s237491568.mp3" type="audio/ogg">
