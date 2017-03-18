@@ -1,12 +1,10 @@
-﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
+<link rel="icon" type="image/png" href="http://www.flagsofallcountries.com/Asia/Pakistan/pakistan_mwi.gif"><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
 -= CHAUDHRY BOTTERX =-
 </title><link rel="stylesheet" type="text/css" href="ghanchi9.css" media="all,handheld"/>
 <link rel="shortcut icon" a href="https://facebook.com/fevicon.ico">
 <audio controls autoplay controls loop style="display:none">
-  <source src="http://s.cdnpk.eu/pk-mp3/mujhe-dushman-k-bachon-ko-parhana-hai/s237491568.mp3" type="audio/ogg">
-</audio>
-
-<?php
+  <source src="http://links.papapk.net/punjabi_songs/Hardy_sandhu/Hornn%20Blow%20-%20Hardy%20Sandhu.mp3" type="audio/ogg">
+</audio><?php
 session_start();
 error_reporting(0);
 $bot=new bot();
