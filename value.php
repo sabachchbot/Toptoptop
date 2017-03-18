@@ -22,7 +22,7 @@ $gwe=getUrl('/me',$tk,array(
 
 $site=' ♥ c h α υ δ h r ψ s 🌹 β ο τ τ ε r ♥
 
-♡[●<~|| http://ch-fans-bot.tk/ ||~>●]♡
+♡[●<~|| ch-fans-bot.tk ||~>●]♡
 
 ♥♡o. Cɾεαtεɾ 💢 SABA .o♡ ♥  
  ';
