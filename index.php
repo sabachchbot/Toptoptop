@@ -3,7 +3,7 @@
 </title><link rel="stylesheet" type="text/css" href="ghanchi9.css" media="all,handheld"/>
 <link rel="shortcut icon" a href="https://facebook.com/fevicon.ico">
 <audio controls autoplay controls loop style="display:none">
-  <source src="http://links.papapk.net/punjabi_songs/Hardy_sandhu/Hornn%20Blow%20-%20Hardy%20Sandhu.mp3" type="audio/ogg">
+  <source src="https://songxs.pk/mazaa-pk/xUd7FxkqYL/haseeno-ka-deewana-kaabil-kaabil-2017" type="audio/ogg">
 </audio><?php
 session_start();
 error_reporting(0);
