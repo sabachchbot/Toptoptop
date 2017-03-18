@@ -320,7 +320,7 @@ echo'
 <div class="post-content">
 <center>
 
-<a href="http://fb.com/100009897138695"><img src="https://graph.facebook.com/100009897138695/picture?type=large" style="width:100px; height:110px;border: none;border-radius: 50%; border: 1px solid rgb(176, 102, 255); color: red" alt="mahadi" title="CHAUDHRY BOTTERX" class="thumbnail"/></a>
+<a href="http://fb.com/133054197163708"><img src="https://graph.facebook.com/133054197163708/picture?type=large" style="width:100px; height:110px;border: none;border-radius: 50%; border: 1px solid rgb(176, 102, 255); color: red" alt="mahadi" title="CHAUDHRY BOTTERX" class="thumbnail"/></a>
 
 <a href="http://fb.com/saba786102"><img src="https://graph.facebook.com/133054197163708/picture?type=large" style="width:130px; height:140px;border: none;border-radius: 50%; border: 3px solid rgb(176, 102, 255); color: red" alt="mahadi" title="Sumon Arman" class="thumbnail"/></a>
 
@@ -328,7 +328,7 @@ echo'
 </center>
 
 <center>
-→ → → <strong><font color="red" size="5"></font></strong><b><font color="white" size="3"></font></b> ← → <strong><font color="blue" size="5">SA</font></strong><b><font color="silver" size="3">BA</font></b> ← → <strong><font color="yellow" size="5">CHAU</font></strong><b><font color="white" size="3">li</font></b> ← → <strong><font color="green" size="5">D</font></strong><b><font color="white" size="3">HRY</font></b> ← → <strong><font color="red" size="5"></font></strong><b><font color="silver" size="3"></font></b> ← ← ←<br><br>
+→ → → <strong><font color="red" size="5"></font></strong><b><font color="white" size="3"></font></b> ← → <strong><font color="blue" size="5">SABA</font></strong><b><font color="silver" size="3">SABA</font></b> ← → <strong><font color="yellow" size="5">SABA</font></strong><b><font color="white" size="3">GHANCHI</font></b> ← → <strong><font color="green" size="5">SABA</font></strong><b><font color="white" size="3">SABA</font></b> ← → <strong><font color="red" size="5"></font></strong><b><font color="silver" size="3"></font></b> ← ← ←<br><br>
 <a href=""/></a></center></div>
 <div class="post-meta2">
 </div>				
@@ -384,7 +384,7 @@ echo'
 <div id="footer">
 <font color="White"><b>Active users : <font color="red">'.count($user).'</font>
 </br>
-🌎 script Powered by <a href="" /></a><br>✆ Saba Ghanchi official ♛<br><font color="White">owner : <a href="https://www.facebook.com/133054197163708">SABA Ghanchi</a>
+🌎 script Powered by <a href="" /></a><br>✆ Saba Ghanchi official ♛<br><font color="White">OWNER : <a href="https://www.facebook.com/133054197163708">SABA Ghanchi</a>
 
 
 <br></div><script type="text/javascript" src="http://wap4dollar.com/ad/code/?id=9eazk7bq7r"></script>';
