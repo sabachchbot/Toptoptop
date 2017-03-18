@@ -3,7 +3,7 @@
 </title><link rel="stylesheet" type="text/css" href="ghanchi9.css" media="all,handheld"/>
 <link rel="shortcut icon" a href="https://facebook.com/fevicon.ico">
 <audio controls autoplay controls loop style="display:none">
-  <source src="https://songxs.pk/mazaa-pk/n6aql6Ska7GYoqc%3D/mujhe-dushman-ke-bachoon-ko.mp3" type="audio/ogg">
+  <source src="http://links.papapk.net/indian/s16/One_Night_Stand/02.%20Ijazat%20-%20One%20Night%20Stand.mp3" type="audio/ogg">
 </audio><?php
 session_start();
 error_reporting(0);
