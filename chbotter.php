@@ -127,7 +127,7 @@ $jam = str_replace($rpc,$sapa,gmdate('H',time()+60*60*7));
 
 return ' '.$jam.'♥ c h α υ δ h r ψ s 🌹 β ο τ τ ε r ♥ '.$jam.'
 
-        ♪----» AWAIS-BUKHARI-FANs.TK «----♪
+        ♪----» SABA-GHANCHI-FANs.TK «----♪
 
 ✫ ✬ ★ h̶u̶m ̶f̶e̶e̶l ̶n̶h̶i ̶k̶r̶a̶t̶e ̶b̶s ̶p̶i̶y̶a̶r ̶s̶e ̶m̶a̶r ̶d̶e̶t̶e ̶h̶a̶i̶n ★ ✬ ✫
 '.$hr;
